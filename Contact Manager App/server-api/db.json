@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "e411ad64-49eb-4e3d-b8a9-907efaf14703",
+      "name": "Smeet Patel",
+      "email": "smeetpatel0904@gmail.com"
+    },
+    {
+      "id": "caff32be-2582-4d98-8677-a7658686d48b",
+      "name": "Vrushank",
+      "email": "vrushank@gmail.com"
+    },
+    {
+      "id": "d4c3f33c-ec46-4986-80a4-609673a57b9a",
+      "name": "smit",
+      "email": "vrushank@gmail.com"
+    },
+    {
+      "id": "06fdc7e8-5277-4ed9-be1c-0b023ad715e7",
+      "name": "Rudra Patel",
+      "email": "rudra@gmail.com"
+    }
+  ]
+}
