@@ -1,6 +1,10 @@
 # **ToDo App by Smeet Patel**
 This project was made by Smeet Patel using React.
 
+# Live Demo
+
+https://smeet-todolist.netlify.app/
+
 # **Steps to Run the Application**
 ## STEP 1:
 When you first open the application, you can see a box with an input field with a "Add" button.
