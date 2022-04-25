@@ -2,4 +2,4 @@
 This project was made by Smeet Patel using React.
 
 # Live Demo
-https://smeet-quiz-app-3ea75c.netlify.app/
+https://smeet-quiz-app.netlify.app/
